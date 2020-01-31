@@ -1,6 +1,8 @@
-# BabenkoSolitaryWave++:  Solitary wave for the full Euler equations with the free surface (c++ version)
+# cBabenkoSolitaryWave:  Solitary wave for the full Euler equations with the free surface (c++ version)
 
 This c++ code is modified from the [BabenkoSolitaryWave](https://github.com/dutykh/BabenkoSolitaryWave) of Denys Dutykh by using [matlab2cpp](https://github.com/jonathf/matlab2cpp)
+
+## References
 
 More information can be found in the papers:
 
